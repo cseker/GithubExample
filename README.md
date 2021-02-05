@@ -8,7 +8,7 @@ Based on mvvm architecture and repository pattern.
 
 ## Specs & Open-source libraries
 - Minimum SDK 21
-- 100% Kotlin based
+- 100% Kotlin based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 - MVVM Architecture
 - Architecture Components (Lifecycle, LiveData, ViewModel, Room Persistence)
 - DataBinding
