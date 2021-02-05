@@ -4,6 +4,8 @@ A simple project for Github repo list
 ## Architecture
 Based on mvvm architecture and repository pattern.
 
+![architecture](https://github.com/cseker/GithubExample/blob/readme/previews/arch.png?raw=true)
+
 ## Specs & Open-source libraries
 - Minimum SDK 21
 - 100% Kotlin based
